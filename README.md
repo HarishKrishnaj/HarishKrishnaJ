@@ -1,5 +1,3 @@
-[Uploading README.md…]()
-# harishkrishnaj-official[README_AI_Engineer_Harish_Krishna.md](https://github.com/user-attachments/files/24604670/README_AI_Engineer_Harish_Krishna.md)
 # 👋 Hi, I’m Harish Krishna
 ### 🚀 B.Tech Artificial Intelligence & Data Science (Pre-final Year) | Aspiring AI Engineer  
 **LLMs • Agents • RAG • AI Automation**
